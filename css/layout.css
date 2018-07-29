@@ -52,3 +52,5 @@
   padding: 5px;
 }
 
+.col-4 { width: 32%; }
+.col-8 { width: 66%; }
