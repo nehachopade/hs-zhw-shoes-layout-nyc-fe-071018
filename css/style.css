@@ -111,7 +111,7 @@ iframe {
 }
 
 .shadow {
-  box-shadow: 0 3px 10px #333;
+  box-shadow: 0 3px 50px #333;
 }
 
 .milk_text {
@@ -255,7 +255,7 @@ a.gplus:active { background-position: -80px -80px; }
 /********** Sections **********/
 
 section {
-  padding: 100px;
+  padding: 20px;
   background: white;
 }
 
