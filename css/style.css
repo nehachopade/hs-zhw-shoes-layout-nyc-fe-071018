@@ -310,15 +310,15 @@ footer a {
 
 }
 .small{
-  width:262px;
-  height:262px;
+  width:320px;
+  height:320px;
 }
 .long{
-  width:262px;
-  height:524px;
+  width:320px;
+  height:640px;
 
 }
 .large{
-  width:525px;
-  height:524px;
+  width:640px;
+  height:640px;
 }
