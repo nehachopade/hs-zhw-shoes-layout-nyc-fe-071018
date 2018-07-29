@@ -304,6 +304,10 @@ footer a {
 
 /* code examples copyright Jonathan Grover 2012 */
 
+.featuredbrand{
+  width:960px;
+}
+
 .column{
   display:inline-block;
   width:30%;
