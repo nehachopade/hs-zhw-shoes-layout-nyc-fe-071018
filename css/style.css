@@ -303,3 +303,22 @@ footer a {
 }
 
 /* code examples copyright Jonathan Grover 2012 */
+
+.column{
+  display:inline-block;
+  width:262px;
+
+}
+.small{
+  width:262px;
+  height:262px;
+}
+.long{
+  width:262px;
+  height:524px;
+
+}
+.large{
+  width:525px;
+  height:524px;
+}
