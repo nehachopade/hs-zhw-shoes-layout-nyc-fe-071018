@@ -15,7 +15,6 @@
   clear: both;
   visibility: hidden;
   height: 0;
-  line-height: 0;
 }
 
 .clear {
@@ -24,4 +23,40 @@
 
 /* Posititoning Classes */
 
+.column{
+  display:inline-block;
+  width:33%;
+}
+.small{
+ width: 98%;
+ height: 98%;
+ margin-bottom: 5%;
+ margin-left: -2%;
+}
 
+.long{
+  width:98%;
+  height:200%;
+  margin-bottom: 3%;
+  margin-left: -2%;
+  padding-top:15px;
+}
+
+.large{
+  width:200%;
+  height:200%;
+  margin-bottom: 3%;
+  margin-left: -2%;
+}
+
+.milk-text{
+  padding: 5px;
+}
+
+.col-4 { width: 32%; }
+.col-8 { width: 66%; }
+
+.border_right{
+  width:33%;
+  float:left;
+}
